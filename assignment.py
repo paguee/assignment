@@ -1,7 +1,6 @@
 import random
 
 a = random.randint(100,999)
-print(a)
 
 for n in range(10):
     b = int(input("3桁の数字を入力してください："))
